@@ -1,0 +1,21 @@
+{
+  "name": "with-loader",
+  "description": "wrap your code in with",
+  "version": "1.0.0",
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  },
+  "files": [
+    "./index.js"
+  ],
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlrawlings/with-loader.git"
+  }
+}

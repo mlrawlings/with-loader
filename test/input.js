@@ -1,0 +1,1 @@
+module.exports = PI * pow(radius, 2);
